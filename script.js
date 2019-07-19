@@ -848,61 +848,209 @@ let universe = {
     theMostImportantPersonOfTheCentury:"Albert Einstein",
     richestCountriesOfTheWorld:["Singapore", "Brunei", "Ireland", "Norway", "The United Arab Emirates", "Kuwait", "Switzerland", "United States"],
     currentIssuesOfTheWorld:"Environmental Problems",
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    rainbowMountains:"China",
+    mysteriousPlacesOfTheWorld:[
+        {
+            name:"Svalbard Global Seed Vault",
+            country:" Norwegian island of Spitsbergen"
+        },
+        {
+            name:"Area 51",
+            country:"Nevada"
+        },
+        {
+            name:"Mezhgorye",
+            country:"Russia"
+        },
+        {
+            name:"North Sentinel Island",
+            country:"on the Bay of Bengal"
+        },
+        {
+            name:"Surtsey",
+            country:"the southern coast of Iceland"
+        },
+        {
+            name:"Lascaux Caves",
+            country:"France"
+        },
+        {
+            name:"Snake Island",
+            country:"Brazil"
+        },
+        {
+            name:"Snake Island",
+            country:"Brazil"
+        },
+        {
+            name:"Bohemian Grove",
+            country:"California"
+        },
+        {
+            name:"Church of Our Lady Mary of Zion",
+            country:"Ethiopia"
+        },
+        {
+            name:"Vatican Secret Archives",
+            country:"America"
+        }
+    ],
+    iQLevelClassification:[
+        {
+            iQGrade:"Genius",
+            iQRange:144,
+            percentOfPopulation:"0.13%"
+        },
+        {
+            iQGrade:"Gifted",
+            iQRange:"130-144",
+            percentOfPopulation:"2.14%"
+        },
+        {
+            iQGrade:"Above Average",
+            iQRange:"115-129",
+            percentOfPopulation:"13.159%"
+        }
+    ],
+    iQStandsFor:"Intelligence Quotient",
+    mostFamousSingersOfTheWorld:[
+        {
+            name:"Eminem",
+            singer:"Hip Hop"
+        },
+        {
+            name:"Michael Jackson",
+            singer:"Pop Singer"
+        },
+        {
+            name:"Lady Gaga",
+            singer:"Electronic/Pop Singer"
+        },
+        {
+            name:"Justin Bieber",
+            singer:"R&B/Pop Singer"
+        },
+        {
+            name:"Madonna",
+            singer:"Pop Singer"
+        },
+        {
+            name:"Taylor Swift",
+            singer:"Pop Singer"
+        },
+        {
+            name:"Beyonce",
+            singer:"Pop Singer"
+        },
+        {
+            name:"Katy Perry",
+            singer:"Pop/Rock Singer"
+        },
+        {
+            name:"Ed Sheeran",
+            singer:"Pop Singer"
+        },
+        {
+            name:"Britney Spears",
+            singer:"Pop Singer"
+        }
+    ],
+    listOfCricketWorldCupFinals:[
+        {
+           year:1975,
+           winner:"West Indies",
+           winningMargin:"17 runs",
+           runnerUp:"Australia",
+           finalVenue:"Lord`s,London",
+           crowd:"24,000" 
+        },
+        {
+           year:1979,
+           winner:"West Indies",
+           winningMargin:"92 runs",
+           runnerUp:"England",
+           finalVenue:"Lord`s,London",
+           crowd:"32,000" 
+        },
+        {
+           year:1983,
+           winner:"India",
+           winningMargin:"43 runs",
+           runnerUp:"West Indies",
+           finalVenue:"Lord`s,London",
+           crowd:"30,000" 
+        },
+        {
+           year:1987,
+           winner:"Australia",
+           winningMargin:"7 runs",
+           runnerUp:"England",
+           finalVenue:"Eden Gardens,Kolkata,India",
+           crowd:"95,000" 
+        },
+        {
+           year:1992,
+           winner:"Pakistan",
+           winningMargin:"22 runs",
+           runnerUp:"England",
+           finalVenue:"MCG,Melbourne,Australia",
+           crowd:"87,182" 
+        },
+        {
+            year:1996,
+            winner:"SriLanka",
+            winningMargin:"7 Wickets",
+            runnerUp:"Australia",
+            finalVenue:"Gaddafi Stadium,Lahore,Pakistan",
+            crowd:"62,645" 
+        },
+        {
+            year:1999,
+            winner:"Australia",
+            winningMargin:"8 Wickets",
+            runnerUp:"Pakistan",
+            finalVenue:"Lord`s,London",
+            crowd:"30,000" 
+        },
+        {
+            year:2003,
+            winner:"Australia",
+            winningMargin:"125 runs",
+            runnerUp:"India",
+            finalVenue:"Wanderers, Johannesburg,South Africa",
+            crowd:"32,827" 
+        },
+        {
+            year:2007,
+            winner:"Australia",
+            winningMargin:"53 runs",
+            runnerUp:"SriLanka",
+            finalVenue:"Kensington Oval, Bridgetown",
+            crowd:"28,108" 
+        },
+        {
+            year:2011,
+            winner:"India",
+            winningMargin:"6 Wickets",
+            runnerUp:"SriLanka",
+            finalVenue:"Wankhede Stadium, Mumbai,India ",
+            crowd:"42,000" 
+        },
+        {
+            year:2015,
+            winner:"Australia",
+            winningMargin:"7 Wickets",
+            runnerUp:"New Zealand",
+            finalVenue:"MCG, Melbourne, Australia",
+            crowd:"93,013" 
+        },
+        {
+            year:2019,
+            winner:"England",
+            winningMargin:"Double tie",
+            runnerUp:"New Zealand",
+            finalVenue:"Lord`s,London",
+            crowd:"42,000" 
+        }
+    ],
 }
